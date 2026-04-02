@@ -82,13 +82,6 @@ SupportX AI Assist is an intelligent IT ticket resolver that leverages Azure Ope
 - **Prompts**: Adjust agent behavior in [`utility/prompt.py`](utility/prompt.py).
 - **Email Settings**: Configure SMTP credentials in [`tools/send_email.py`](tools/send_email.py).
 
-
-## License
-
-MIT License
-
----
-
 **Developed by Mihir Kudale**
 
 All rights reserved.
